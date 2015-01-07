@@ -1,30 +1,30 @@
-サンプルリポジトリです
+sample repository
 ======================
 
-## 概要
-テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+## summary
+texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
 
-* テキストテキストテキストテキストテキストテキスト
-* テキストテキストテキストテキストテキストテキスト
+* texttexttexttexttexttexttexttexttexttext
+* texttexttexttexttexttexttexttexttexttext
 
-## 構成
+## structure
 ```
 ├── README.md
 ├── index.html ..............hogehogehoge
 └── image.jpg
 ```
 
-## 詳細
-テキストテキストテキストテキストテキスト
+## detail
+texttexttexttexttexttexttexttexttexttext
 
 ### about contents
-テキストテキストテキストテキストテキスト
+texttexttexttexttexttexttexttexttexttext
 ```
 git cone hogehoge
 ```
 
 ### about sample
-テキストテキストテキストテキストテキスト
+texttexttexttexttexttexttexttexttexttext
 ```
 $ git log --pretty=format:"%h - %an, %ar : %s" --graph
 ```
